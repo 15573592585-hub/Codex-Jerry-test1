@@ -1,0 +1,11 @@
+*.private.*
+*.local.*
+*.pdf
+*.xlsx
+*.docx
+*.png
+*.jpg
+*.zip
+__pycache__/
+.env*
+memory/
