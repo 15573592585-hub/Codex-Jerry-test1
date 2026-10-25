@@ -1,4 +1,0 @@
-interface:
-  display_name: "秋招销售投递助手"
-  short_description: "匹配既有销售简历，完成制造业校招官网网申并更新原投递清单"
-  default_prompt: "使用 $campus-sales-apply，读取当前工作区投递约定，从既有定稿PDF中匹配并复制对应简历，完成一家公司的JD核验、官网网申及原Excel登记，完成后等我确认下一家。"
